@@ -1,0 +1,6 @@
+# scala (sbt-generated) files
+target
+
+# development environments
+.idea
+.metals
